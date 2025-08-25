@@ -32,7 +32,7 @@
 [y] 3
 [code] 
   slp 1
-0:  tcp p1 p0
+  tcp p1 p0
 + add 1
 + mov acc x3
 + slp 2
